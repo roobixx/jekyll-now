@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Poor soul that made it to this page of my site.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+See the * beside Triahtlete...yeah cause that is a work in progress
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tim@roobixx.com](mailto:tim@roobixx.com)
