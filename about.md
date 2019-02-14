@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-OSCP | OSWP | CISSP
+OSCP `|`  OSWP `|`CISSP
 
 You are a oor soul if you made it to this page of my site.
 
