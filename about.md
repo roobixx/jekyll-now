@@ -3,8 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+OSCP | OSWP | CISSP
 
-Poor soul that made it to this page of my site.
+You are a oor soul if you made it to this page of my site.
 
 ### More Information
 
